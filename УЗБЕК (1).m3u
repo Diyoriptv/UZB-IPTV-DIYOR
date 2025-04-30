@@ -1,0 +1,133 @@
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/uztv.webp",O'zbekiston
+https://stream1.cinerama.uz/1001/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/yosh.webp",Yoshlar
+https://stream1.cinerama.uz/1002/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/tosh.webp",Toshkent
+https://stream1.cinerama.uz/1003/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/my5.webp",My5
+https://stream1.cinerama.uz/1012/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/my5i.png",My5 International
+https://st.my5.media/hls/fullhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/milliy.webp",Milliy TV
+https://stream1.cinerama.uz/1014/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/zur.webp",Zo'r-TV
+https://stream1.cinerama.uz/1016/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/sev.webp",Sevimli
+https://stream1.cinerama.uz/1017/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/lux.webp",LuxTV
+https://stream1.cinerama.uz/1210/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/iqbol.webp",I-kbol
+https://stream1.cinerama.uz/1282/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/istiq.webp",Istiqlol TV
+https://stream1.cinerama.uz/1283/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/ntv.webp",ntv (o'zbekiston)
+https://stream1.cinerama.uz/1284/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/ntv.webp", Gold TV
+https://stream8.cinerama.uz/4007/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/farg.jpeg",Farg'ona
+https://stream1.cinerama.uz/1458/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/xor.jpeg" ,Xorazm
+https://stream1.cinerama.uz/1464/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/qaraqal.webp" ,Qaraqalpaqstan
+https://stream1.cinerama.uz/1467/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/ruxs.webp",Ruxsor TV
+https://stream1.cinerama.uz/1260/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/nuraf.webp"",Nurafshon
+https://stream1.cinerama.uz/1220/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/taraqq.webp",Taraqqiyot tv
+https://stream1.cinerama.uz/1204/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/", Makon TV
+https://stream2.cinerama.uz/1497/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/taraqq.webp", 
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/taraqq.webp", 
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/", Vodiy TV
+https://stream2.cinerama.uz/4012/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/", JTV
+https://stream8.cinerama.uz/1488/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/",Ishonch TV 
+https://stream2.cinerama.uz/1489/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/", Eliqqala TV
+https://stream2.cinerama.uz/1495/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/" ,Nasaf TV
+https://stream8.cinerama.uz/2025/tracks-a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/" ,JaslarTV
+https://stream8.cinerama.uz/1490/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/taraqq.webp", Amudaryo TV
+https://stream8.cinerama.uz/1491/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/taraqq.webp", Muloqot TV
+https://stream8.cinerama.uz/1285/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/stv.webp",Солнечный тв
+https://fl.biztv.media/stv_1080_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/sevimlijon.webp",Sevimlijon
+https://stream1.cinerama.uz/1477/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/mimi.jpeg",MiMi
+https://fl.biztv.media/MiMiTV_1080/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/bola.webp",Bolajon
+https://stream1.cinerama.uz/1007/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/aql.webp",Aqlvoy
+https://stream1.cinerama.uz/1205/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/ttv1.webp",TTV Telekanal
+https://stream2.cinerama.uz/1494/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/ttv2.webp",TTV Kino
+https://stream2.cinerama.uz/1486/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/ttv2.webp",tasix-media kino
+https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/cinema.webp" ,Cinema (uzb)
+https://stream1.cinerama.uz/1498/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/biz1.webp",BIZ TV
+https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/biz2.webp",BIZ Cinema
+https://stream1.cinerama.uz/1213/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/itv1.webp"",Itv Cinema
+https://stream2.cinerama.uz/4000/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/kinot.webp" group-title="All",Kinoteatr
+https://stream1.cinerama.uz/1009/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/shifo.png" ,Shifo TV
+https://st1.biztv.media/checksiztv_1080/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/travel.webp" ,Travel-tv (O'zbekiston)
+https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/smusic.webp",Globus Music
+https://stream2.cinerama.uz/1476/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/biz3.webp",BIZ Music
+https://stream1.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/muz.png" ,Муз-тв (o'zbekiston)
+https://stream1.cinerama.uz/1063/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/ttvm.webp" ,TTV Musiqa
+
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/navo.webp",Navo
+https://stream1.cinerama.uz/1008/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/ftv.webp" ,FTV
+https://stream1.cinerama.uz/1018/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/live.png",Live TV
+https://stream1.cinerama.uz/1475/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/myd.webp",MYDAYTV
+https://stream1.cinerama.uz/1265/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/biznes.png" ,Biznes TV
+https://fl.biztv.media/BiznesTV_1080/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/madan.webp",Madaniyat va ma'rifat
+https://stream1.cinerama.uz/1005/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/dtv.webp",Dasturxon
+https://stream1.cinerama.uz/1206/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/dunyo.webp",Dunyo Bo'ylab
+https://stream1.cinerama.uz/1006/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/renessans.webp",RTV
+https://stream8.cinerama.uz/1221/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/uz24.webp",O'zbekiston-24
+https://stream1.cinerama.uz/1011/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/tarix.webp" ,O'zbekiston tarixi
+https://stream1.cinerama.uz/1209/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/mahalla.webp" ,Mahalla
+https://stream1.cinerama.uz/1013/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/report.webp" ,Uzreport
+https://stream1.cinerama.uz/1015/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tv/sport.webp" ,Sport uz
+https://stream1.cinerama.uz/1004/tracks-v1a1/mono.m3u8
+
+
+
+
